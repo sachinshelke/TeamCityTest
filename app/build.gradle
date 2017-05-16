@@ -19,7 +19,7 @@ android {
     }
 
     aaptOptions {
-        cruncherEnabled false
+        cruncherEnabled = false
     }
 }
 
